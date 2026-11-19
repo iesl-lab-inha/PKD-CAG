@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+recordings/
+data/
+datasets/
+stimuli/
+checkpoints/
+ablation_results/
+*.xdf
+*.mp4
+*.avi
+*.pt
+*.pth
+*.mat
+*_events.csv
